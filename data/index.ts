@@ -91,7 +91,7 @@ export const projects = [
     title: "Music Album",
     des: "A Beautiful and Unique Music Album.",
     img: "https://i.ibb.co.com/fQz7v8k/Screenshot-2024-10-21-at-1-45-47-PM.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
     link: "https://66c03ad8f0169f11c9266088--sweets-music.netlify.app/",
   },
 ];
