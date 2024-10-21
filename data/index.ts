@@ -73,81 +73,26 @@ export const projects = [
   {
     id: 1,
     title: "Paste",
-    des: "Paste is a day to day daily task manager. It keeps you organised and on top of your day.",
+    des: "Create and manage your own pastes with ease",
     img: "https://i.ibb.co.com/9b9dxX5/Screenshot-2024-10-21-at-1-16-00-PM.png",
     iconLists: ["/re.svg", "/tail.svg"],
     link: "https://paste-r2gqo2v23-emtiaz-ahmed-13s-projects.vercel.app/",
   },
   {
     id: 2,
-    title: "Ts Store",
-    des: "Advanced Filtering & Sorting by price, rating, and more Responsive Grid Layout showcasing product title, price, and ratingSearch & Pagination for smooth navigation",
+    title: "Ts-store",
+    des: "The best online store for your fashion needs.",
     img: "https://i.ibb.co.com/QQ0T4vN/Screenshot-2024-10-21-at-1-35-56-PM.png",
-    iconLists: ["/ts.svg", "/tail.svg"],
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
     link: "https://ts-store-ibvd.vercel.app/",
   },
   {
     id: 3,
     title: "Music Album",
-    des: "MY New Fun Project For - Exploring : Aceternity ui  NextJs (basic)  TypeScript(basic) .",
+    des: "A Beautiful and Unique Music Album.",
     img: "https://i.ibb.co.com/fQz7v8k/Screenshot-2024-10-21-at-1-45-47-PM.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
     link: "https://66c03ad8f0169f11c9266088--sweets-music.netlify.app/",
-  },
-];
-
-export const testimonials = [
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-];
-
-export const companies = [
-  {
-    id: 1,
-    name: "appwrite",
-    img: "/app.svg",
-    nameImg: "/appName.svg",
-  },
-  {
-    id: 2,
-    name: "cloudinary",
-    img: "/cloud.svg",
-    nameImg: "/cloudName.svg",
-  },
-
-  {
-    id: 3,
-    name: "docker.",
-    img: "/dock.svg",
-    nameImg: "/dockerName.svg",
   },
 ];
 
@@ -155,13 +100,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/Emtiaz-ahmed-13",
   },
   {
     id: 2,
     img: "/twit.svg",
+    link: "https://x.com/emtiaza62570877",
   },
   {
     id: 3,
     img: "/link.svg",
+    link: "https://www.linkedin.com/in/emtiaz-ahmed-2892871a2/",
   },
 ];
